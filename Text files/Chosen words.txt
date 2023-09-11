@@ -1,0 +1,18 @@
+# These words contains letters which are first 5 letter that most occurs in words (Letter Frequency) #
+{'arose'}
+
+
+# These words contains letters which are first 10 letter that most occurs in words (Letter Frequency) #
+{'stand','oiler'}
+
+
+# These words contains letters which are first 15 letter that most occurs in words (Letter Frequency) #
+{'candy', 'plume', 'riots'}
+
+
+# These words contains letters which are first 20 letter that most occurs in words (Letter Frequency) #
+{'shelf','dirty','bacon','grump'}
+
+
+# These words contains letters which are first 25 letter that most occurs in words (Letter Frequency) #
+{'fjord','gucks','nymph','vibex', 'waltz'}
