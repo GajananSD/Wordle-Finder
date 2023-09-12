@@ -8,7 +8,7 @@
 
 What is Wordle?
 
-Wordle is a daily online word game created by Josh Wardle and later sold to The New York Times![](Aspose.Words.0fdfc5f9-6fc7-4a3f-b315-75c6b2b32bde.001.jpeg) Company. Every 24 hours, there is a new word of the day, and we have to figure it out in 6 tries. Since its launch, the game has become very popular. According to The New Times, over 300,000 people play the game daily.
+Wordle is a daily online word game created by Josh Wardle and later sold to The New York Times![](I1.jpeg) Company. Every 24 hours, there is a new word of the day, and we have to figure it out in 6 tries. Since its launch, the game has become very popular. According to The New Times, over 300,000 people play the game daily.
 
 How to play?![](Aspose.Words.0fdfc5f9-6fc7-4a3f-b315-75c6b2b32bde.002.jpeg)
 
