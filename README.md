@@ -26,5 +26,22 @@ Find a strategy to guess the right word in Wordle in the least number of guesses
 
 # Analysis
 
-Used Python to analyse a database of 5760 5-letter words. Then, this data was used to plot graphs, which helped further understand the data.
+Used Python to analyse a 5760 word database of 5-letter words. This data is used to plot graphs, which helped further analyze the data.
 ![](assets/I3.jpeg) ![](assets/I4.png)<br>
+
+Here, the frequency of each letter occurring in all words.
+
+# Strategy
+
+Based on the analysis done on our database, I developed strategies to guess the right word in the least number of guesses and within 6 guesses. First, pass fixed words as initial guesses and then the code will find the correct position, wrong positions and letters not present in the word. Based on those details, the code will decide the next guess.
+
+***Method -1:***
+Let's choose the first 5 most occurring letters: [ S, E, A, O, R]
+
+Make one word from it: {AROSE}
+
+So, the first initial guess will be the word ‘AROSE’ each time, and then the code will provide further guesses.
+
+**Result:** After applying this algorithm for all words, the output is as follows.
+
+
