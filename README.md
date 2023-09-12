@@ -43,6 +43,19 @@ So, the first initial guess will be the word ‘AROSE’ each time, and then the
 
 **Result:** 
 After applying this algorithm for all words, the output is as follows.
-![](assets/I5.jpeg)    ![](assets/I6.png) <br>
+![](assets/I5.jpeg)<br>
+![](assets/I6.png) <br>
 But we can see here that 705 words are guessed at an attempt larger than 6.
+
+***Method -2:***
+Let's choose the first 10 most occurring letters: [ S, E, A, O, R, I, L, T, N, D]
+Make two words from it: {STAND, OILER}
+So, the first initial guess will be the word ‘STAND’, and the second guess will be the word ‘OILER’ each time, and then the code will provide further guesses.
+
+**Result:** 
+After applying this algorithm for all words, the output is as follows.
+![](I7.jpeg)
+![](I8.png)
+But we can see that 380 words are guessed at an attempt larger than 6.
+
 
