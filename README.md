@@ -97,7 +97,9 @@ But we can see that 220 words are guessed at an attempt larger than 6.
 
 # Conclusion:
 
-X = no. of guesses greater than 6
+X = no. of guesses greater than 6<br>
+
 ![](assets/I15.png)<br>
+
 Here, first normalized both the data columns using max-min normalisation. Then, for the final combined score, selected weightage of 60% for the value of X and 40% for the value of a mean as we want to minimise guess number and mean also, but priority is given to X value.
-![](assets/I16.png)
+
