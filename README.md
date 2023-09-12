@@ -35,8 +35,7 @@ Here, the frequency of each letter occurring in all words.
 
 Based on the analysis done on our database, I developed strategies to guess the right word in the least number of guesses and within 6 guesses. First, pass fixed words as initial guesses and then the code will find the correct position, wrong positions and letters not present in the word. Based on those details, the code will decide the next guess.
 
-- ***Method -1:*** -
-  
+- ***Method -1:*** 
 <br>
 Let's choose the first 5 most occurring letters: [ S, E, A, O, R]
 Make one word from it: {AROSE}
@@ -48,7 +47,7 @@ After applying this algorithm for all words, the output is as follows.
 ![](assets/I6.png) <br>
 But we can see here that 705 words are guessed at an attempt larger than 6.
 
-***Method -2:***
+- ***Method -2:***
 <br>
 Let's choose the first 10 most occurring letters: [ S, E, A, O, R, I, L, T, N, D]
 Make two words from it: {STAND, OILER}
@@ -60,7 +59,7 @@ After applying this algorithm for all words, the output is as follows.
 ![](assets/I8.png)<br>
 But we can see that 380 words are guessed at an attempt larger than 6.
 
-***Method -3:***
+- ***Method -3:***
 <br>
 Let's choose the first 15 most occurring letters: [ S, E, A, O, R, I, L, T, N, D, U, C, P, Y, M] 
 Make three words from it: {CANDY, PLUME, RIOTS}
@@ -72,7 +71,7 @@ After applying this algorithm for all words, the output is as follows.
 ![](assets/I10.png)<br>
 But we can see that 209 words are guessed at an attempt larger than 6.
 
-***Method -4:***
+- ***Method -4:***
 <br>
 Let's choose the first 20 most occurring letters:[ S, E, A, O, R, I, L, T, N, D, U, C, P, Y, M, H, B, G, K, F]
 Make four words from it: {SHELF, DIRTY, BACON, GRUMP}
@@ -84,7 +83,7 @@ After applying this algorithm for all words, the output is as follows.
 ![](assets/I12.png)<br>
 But we can see that 113 words are guessed at an attempt larger than 6.
 
-***Method -5:***
+- ***Method -5:***
 <br>
 Let's choose the first 25 most occurring letters:[ S, E, A, O, R, I, L, T, N, D, U, C, P, Y, M, H, B, G, K, F, W, V, X, Z, J]
 Make four words from it: {FJORD, GUCKS, NYMPH, VIBEX, WALTZ}
@@ -96,3 +95,9 @@ After applying this algorithm for all words, the output is as follows.
 ![](assets/I14.png)<br>
 But we can see that 220 words are guessed at an attempt larger than 6.
 
+# Conclusion:
+
+X = no. of guesses greater than 6
+![](assets/I15.png)<br>
+Here, first normalized both the data columns using max-min normalisation. Then, for the final combined score, selected weightage of 60% for the value of X and 40% for the value of a mean as we want to minimise guess number and mean also, but priority is given to X value.
+![](assets/I16.png)
