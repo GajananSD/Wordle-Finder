@@ -11,4 +11,17 @@ Wordle is a daily online word game created by Josh Wardle and later sold to The 
 
 ![](assets/I2.jpeg)<br>
 
+# Problem statement: 
+Find a strategy to guess the right word in Wordle in the least number of guesses.
+
+### Methodology:
+
+1. Downloading a database of 5-letter words.
+1. Analyse these words
+1. Propose a strategy based on the analysis
+1. Testing our strategy.
+1. Write a program to guess the correct word using our strategy.
+1. Apply the program for every word in the database and take the average number of guesses.
+1. Develop a program to apply an algorithm on the Wordle website to guess the word.
+
 
