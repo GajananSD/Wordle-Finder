@@ -54,8 +54,8 @@ So, the first initial guess will be the word ‘STAND’, and the second guess w
 
 **Result:** 
 After applying this algorithm for all words, the output is as follows.
-![](I7.jpeg)
-![](I8.png)
+![](assets/I7.jpeg)
+![](assets/I8.png)
 But we can see that 380 words are guessed at an attempt larger than 6.
 
 
