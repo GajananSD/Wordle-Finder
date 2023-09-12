@@ -1,12 +1,14 @@
-# Wordle-Finder
-
-### Wordle is a game to guess a random 5 letter word within 6 guesses.
-### I developed a python program to guess that word. 
+# Wordle-Finder 
 [YouTube Link](https://youtu.be/bsNv2LcR04c)
-
-
 
 ##### Wordle Game   
 https://www.nytimes.com/games/wordle <br>
 https://wordlegame.org/
+
+# What is Wordle? <br>
+
+Wordle is a daily online word game created by Josh Wardle and later sold to The New York Times Company. Every 24 hours, there is a new word of the day, and we have to figure it out in 6 tries. Since its launch, the game has become very popular. According to The New Times, over 300,000 people play the game daily. <br>
+
+
+
 
