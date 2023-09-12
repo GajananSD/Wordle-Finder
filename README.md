@@ -24,4 +24,7 @@ Find a strategy to guess the right word in Wordle in the least number of guesses
 6. Apply the program for every word in the database and take the average number of guesses.
 7. Develop a program to apply an algorithm on the Wordle website to guess the word.
 
+# Analysis
 
+Used Python to analyse a database of 5760 5-letter words. Then, this data was used to plot graphs, which helped further understand the data.
+![](assets/I3.jpeg) ![](assets/I4.png)<br>
