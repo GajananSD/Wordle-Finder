@@ -108,3 +108,44 @@ where µ = mean and σ = standard deviation
 ![](assets/I17.png)<br>
 
 So according to calculation Method-3 has less value for a combined score, hence it is the most optimised solution.
+
+
+# Python Program working
+
+-**Step - 1:** <br>
+The first code will give an initial guess of ‘ CANDY.’ <br>
+
+![](assets/I18.png)<br>
+
+-**Step - 2:** <br>
+Then we will enter the word ‘ CANDY ’ on the webpage of the WORDLE game.<br>
+
+![](assets/I19.png)<br>
+
+-**Step - 3:** <br> 
+The respective colours we will fill in the Python GUI window.<br>
+
+![](assets/I20.png)
+-**Step - 4:**<br>
+After clicking on the ‘Submit’ button, the code will give us the next guess and this process continues until a word is guessed.<br>
+
+![](assets/I21.png)<br>
+
+![](assets/I22.png)<br>
+
+![](assets/I23.png)<br>
+
+![](assets/I24.png)<br>
+
+![](assets/I25.png)<br>
+
+![](assets/I26.png)<br>
+
+![](assets/I27.png)<br>
+
+![](assets/I28.png)<br>
+
+![](assets/I29.jpeg)<br>
+
+
+# Thank You ! 
