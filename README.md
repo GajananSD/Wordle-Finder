@@ -125,7 +125,8 @@ Then we will enter the word ‘ CANDY ’ on the webpage of the WORDLE game.<br>
 -**Step - 3:** <br> 
 The respective colours we will fill in the Python GUI window.<br>
 
-![](assets/I20.png)
+![](assets/I20.png)<br>
+
 -**Step - 4:**<br>
 After clicking on the ‘Submit’ button, the code will give us the next guess and this process continues until a word is guessed.<br>
 
