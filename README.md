@@ -48,14 +48,50 @@ After applying this algorithm for all words, the output is as follows.
 But we can see here that 705 words are guessed at an attempt larger than 6.
 
 ***Method -2:***
+<br>
 Let's choose the first 10 most occurring letters: [ S, E, A, O, R, I, L, T, N, D]
 Make two words from it: {STAND, OILER}
 So, the first initial guess will be the word ‘STAND’, and the second guess will be the word ‘OILER’ each time, and then the code will provide further guesses.
 
 **Result:** 
 After applying this algorithm for all words, the output is as follows.
-![](assets/I7.jpeg)
-![](assets/I8.png)
+![](assets/I7.jpeg)<br>
+![](assets/I8.png)<br>
 But we can see that 380 words are guessed at an attempt larger than 6.
 
+***Method -3:***
+<br>
+Let's choose the first 15 most occurring letters: [ S, E, A, O, R, I, L, T, N, D, U, C, P, Y, M] 
+Make three words from it: {CANDY, PLUME, RIOTS}
+So, the first initial guess will be the word ‘CANDY’, the second guess will be the word ‘PLUME’, and the third guess will be the word ‘RIOTS’ each time, and then the code will provide further guesses.
+
+**Result:** 
+After applying this algorithm for all words, the output is as follows.
+![](assets/I9.jpeg)<br>
+![](assets/I10.png)<br>
+But we can see that 209 words are guessed at an attempt larger than 6.
+
+***Method -4:***
+<br>
+Let's choose the first 20 most occurring letters:[ S, E, A, O, R, I, L, T, N, D, U, C, P, Y, M, H, B, G, K, F]
+Make four words from it: {SHELF, DIRTY, BACON, GRUMP}
+So, the first initial guess will be the word ‘SHELF’, the second guess will be the word ‘DIRTY’, the third guess will be the word ‘BACON’, and the fourth guess will be the word ‘GRUMP’ each time, and then the code will provide further guesses.
+
+**Result:** 
+After applying this algorithm for all words, the output is as follows.
+![](assets/I11.jpeg)<br>
+![](assets/I12.png)<br>
+But we can see that 113 words are guessed at an attempt larger than 6.
+
+***Method -5:***
+<br>
+Let's choose the first 25 most occurring letters:[ S, E, A, O, R, I, L, T, N, D, U, C, P, Y, M, H, B, G, K, F, W, V, X, Z, J]
+Make four words from it: {FJORD, GUCKS, NYMPH, VIBEX, WALTZ}
+So, the first initial guess will be the word ‘FJORD’, the second guess will be the word ‘GUCKS’, the third guess will be the word ‘NYMPH’, the fourth guess will be the word ‘VIBEX’, and the fifth guess will be the word ‘WALTZ’ each time, and then the code will provide further guesses.
+
+**Result:** 
+After applying this algorithm for all words, the output is as follows.
+![](assets/I13.jpeg)<br>
+![](assets/I14.png)<br>
+But we can see that 220 words are guessed at an attempt larger than 6.
 
