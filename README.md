@@ -26,7 +26,8 @@ Find a strategy to guess the right word in Wordle in the least number of guesses
 
 # Analysis
 
-Used Python to analyse a 5760 word database of 5-letter words. This data is used to plot graphs, which helped further analyze the data.
+Used Python to analyse a 5760 word database of 5-letter words. This data is used to plot graphs, which helped further analyze the data.<br>
+
 ![](assets/I3.jpeg) ![](assets/I4.png)<br>
 
 Here, the frequency of each letter occurring in all words.
@@ -98,8 +99,12 @@ But we can see that 220 words are guessed at an attempt larger than 6.
 # Conclusion:
 
 X = no. of guesses greater than 6<br>
-
 ![](assets/I15.png)<br>
+Here, first normalized both the data columns using max-min normalisation. Then, for the final combined score, selected weightage of 60% for the value of X and 40% for the value of a mean as we want to minimise guess number and mean also, but priority is given to X value.<br>
+![](assets/I16.png)  <br>
 
-Here, first normalized both the data columns using max-min normalisation. Then, for the final combined score, selected weightage of 60% for the value of X and 40% for the value of a mean as we want to minimise guess number and mean also, but priority is given to X value.
+where µ = mean and σ = standard deviation
 
+![](assets/I17.png)<br>
+
+So according to calculation Method-3 has less value for a combined score, hence it is the most optimised solution.
