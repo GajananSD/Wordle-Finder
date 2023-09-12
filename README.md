@@ -17,11 +17,11 @@ Find a strategy to guess the right word in Wordle in the least number of guesses
 ### Methodology:
 
 1. Downloading a database of 5-letter words.
-1. Analyse these words
-1. Propose a strategy based on the analysis
-1. Testing our strategy.
-1. Write a program to guess the correct word using our strategy.
-1. Apply the program for every word in the database and take the average number of guesses.
-1. Develop a program to apply an algorithm on the Wordle website to guess the word.
+2. Analyse these words
+3. Propose a strategy based on the analysis
+4. Testing our strategy.
+5. Write a program to guess the correct word using our strategy.
+6. Apply the program for every word in the database and take the average number of guesses.
+7. Develop a program to apply an algorithm on the Wordle website to guess the word.
 
 
