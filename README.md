@@ -43,6 +43,7 @@ So, the first initial guess will be the word ‘AROSE’ each time, and then the
 
 **Result:** 
 After applying this algorithm for all words, the output is as follows.
-![](assets/I5.jpeg) ![](assets/I6.png)<br>
+![](assets/I5.jpeg) 
+![](assets/I6.png)<br>
 But we can see here that 705 words are guessed at an attempt larger than 6.
 
