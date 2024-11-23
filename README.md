@@ -1,7 +1,7 @@
 # Wordle-Finder 
 [My project YouTube Link](https://youtu.be/bsNv2LcR04c)
 
-##### Wordle Game   
+##### Wordle Game (Here you can play!)   
 https://www.nytimes.com/games/wordle <br>
 https://wordlegame.org/
 
